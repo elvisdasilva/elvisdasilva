@@ -15,6 +15,7 @@ Apaixonado por desenvolvimento web e entusiasta da cultura DevOps.
 ![GIT Badge](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![GITHUB Badge](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![NODEJS Badge](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 
 "A ambição é o caminho para o sucesso. A persistência é o veículo em que você chega."
